@@ -1,15 +1,7 @@
-Sections
-
 Catch Phrase
-About Hireplicity
-Core Values
-Our Team
-CTA
+We connect businesses with talents globally through technology.
 
-Content
 
-Catch Phrase
-We’re connecting businesses with talents globally through technology.
 About Hireplicity
 We are a solutions company that helps businesses achieve growth and success by leveraging technology and providing world-class development teams and the tools needed to support them. We partner with start-ups, small and medium companies, and large enterprises to build solutions that support growth, scale businesses, and provide long-lasting benefits.
 Our mission is to provide workforce solutions that are scalable and impactful to forward-thinking tech businesses. We aim to make a difference in their businesses and support their growth.
